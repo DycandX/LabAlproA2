@@ -17,7 +17,7 @@ int main(void){
     float y; // merupakan jarak
     float v0; // merupakan kecepatan awal
     float t; // waktu
-    const g; // gravitasi
+    const g = 9.8; // gravitasi
 
     // Algoritma
     // Masukan rumus y
